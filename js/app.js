@@ -10,5 +10,5 @@ app.config(function(RestangularProvider) {
 	    "Accept":"application/json"
 	});
 
-	RestangularProvider.setBaseUrl('/xmark/rest');
+	RestangularProvider.setBaseUrl('');
 });
